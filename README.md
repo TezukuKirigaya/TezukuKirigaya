@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TezukuKirigaya
 - 👀 I’m interested in learning about the world of programming
-- 🌱 I’m currently learning Java/HTML
+- 🌱 I’m currently learning Java/HTML 'JavaScipt'
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
